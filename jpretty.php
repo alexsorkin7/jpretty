@@ -1,7 +1,7 @@
 <?php
 namespace Also;
 
-class Pretty {
+class jPretty {
     public $string = "<style>
         [als-pointer] {cursor: pointer;}
         [als-open]::before {content: '\\25BC'}
